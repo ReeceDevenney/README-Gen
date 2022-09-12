@@ -61,12 +61,6 @@ writeToFile = (data) => {
     })
 }
 
-// TODO: Create a function to initialize app
-//function init() {}
-
-// Function call to initialize app
-//init();
-
 promptinfo()
 .then(answers => {
     return generateMarkdown(answers)

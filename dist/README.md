@@ -1,23 +1,30 @@
 
-  # title
-
-  # Description
-  desc
+  # readme generator
 
   # table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Test](#test)
+  - [Questions](#questions)
 
-  # Installation
-  instal
+  ## Description
+  this is a CLI that produces a professional read me based off of user input
 
-  # Usage
-  use
+  ## Installation
+  clone the repository then run it on node
 
-  # Contributing
-  cont
+  ## Usage
+  creates a professional readme
 
-  # Test
-  test
+  ## Contributing
+  none
+
+  ## Test
+  none
 
   # Questions
-  reecedevenney
-  reecedevenney@gmail.com
+ [My Github](https://github.com/ReeceDevenney)
+ 
+ Reecedevenney@gmail.com
