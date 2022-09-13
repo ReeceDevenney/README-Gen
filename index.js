@@ -56,8 +56,6 @@ const promptinfo = () => {
     ])
 }
 
-
-
 // TODO: Create a function to write README file
 writeToFile = (data) => {
     fs.writeFile('./dist/README.md', data, err => {
