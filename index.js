@@ -46,6 +46,12 @@ const promptinfo = () => {
             name: 'test',
             message: 'What are the test instructions of your project?',
         },
+        {
+            type: 'list',
+            name: 'license',
+            message: 'What license is this project under?',
+            choices: ['MIT', 'GPL','LGPL', 'Mozilla Public License', 'none']
+        },
         
     ])
 }

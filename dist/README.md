@@ -1,6 +1,6 @@
 
-  # readme generator
-
+  # asdf
+  ![badmath](https://img.shields.io/badge/license-MIT-brightgreen)
   # table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -8,23 +8,30 @@
   - [Contributing](#contributing)
   - [Test](#test)
   - [Questions](#questions)
+  - [License](#license)
 
   ## Description
-  this is a CLI that produces a professional read me based off of user input
+  asdf
 
   ## Installation
-  clone the repository then run it on node
+  asdf
 
   ## Usage
-  creates a professional readme
+  asdf
 
   ## Contributing
-  none
+  asdf
 
   ## Test
-  none
+  asdf
 
   # Questions
- [My Github](https://github.com/ReeceDevenney)
- 
- Reecedevenney@gmail.com
+  [My Github](https://github.com/asdf)
+
+  for any addtional questions pleas contact me at asdf
+
+  
+  ## License
+
+  Licensed und the MIT license
+    
