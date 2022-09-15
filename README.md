@@ -1,7 +1,7 @@
 
   # README-Gen
   
-  # table of Contents
+  # Table of Contents
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -14,7 +14,7 @@
   this is a CLI that prompts users with questions.  With the answers to those questions it produces a high quality README.
 
   ## Installation
-  For installation, clone this repository onto your local machine
+  For installation, clone this repository onto your local machine then use npm install in your command line.
 
   ## Usage
   to use open a terminal and open the READEME-Gen directory.  From there enter node index and fill out the questions in the terminal.  The README will be produced in the dist folder
