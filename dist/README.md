@@ -1,6 +1,6 @@
 
   # asdf
-  ![badmath](https://img.shields.io/badge/license-MIT-brightgreen)
+  ![badmath](https://img.shields.io/badge/license-ISC-brightgreen)
   # table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -33,5 +33,5 @@
   
   ## License
 
-  Licensed und the MIT license
+  Licensed und the ISC license
     

@@ -50,7 +50,7 @@ const promptinfo = () => {
             type: 'list',
             name: 'license',
             message: 'What license is this project under?',
-            choices: ['MIT', 'GPL','LGPL', 'Mozilla Public License', 'none']
+            choices: ['MIT', 'GPL','LGPL', 'ISC', 'none']
         },
         
     ])
